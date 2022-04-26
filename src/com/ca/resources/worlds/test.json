@@ -1,0 +1,20 @@
+{
+  "_comment": "This is a map testing file",
+  "name": "Test City 2",
+  "data": [
+    {
+      "id": "grass",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "dirt",
+      "position": {
+        "x": 1,
+        "y": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "_comment": "Basic chest-plate test file",
+  "walk": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 512,
+      "toX": 576,
+      "toY": 512
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 640,
+      "toX": 576,
+      "toY": 640
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 576,
+      "toY": 576
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 448,
+      "toX": 576,
+      "toY": 448
+    }
+  },
+  "die": {
+    "width": 64,
+    "height": 64,
+    "frames": {
+      "fromX": 0,
+      "fromY": 320,
+      "toX": 640,
+      "toY": 384
+    }
+  },
+  "idle": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 64,
+      "toY": 512
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 640,
+      "toX": 64,
+      "toY": 640
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 64,
+      "toY": 576
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 704,
+      "toX": 64,
+      "toY": 704
+    }
+  },
+  "attack": {
+    "width": 192,
+    "height": 192,
+    "up": {
+      "fromX": 0,
+      "fromY": 384,
+      "toX": 0,
+      "toY": 576
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 0,
+      "toY": 768
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 768,
+      "toX": 0,
+      "toY": 960
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 960,
+      "toX": 0,
+      "toY": 1152
+    }
+  },
+  "run": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 512,
+      "toX": 576,
+      "toY": 512
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 640,
+      "toX": 576,
+      "toY": 640
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 576,
+      "toY": 576
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 704,
+      "toX": 576,
+      "toY": 704
+    }
+  },
+  "icon": {
+    "width" : 32,
+    "height" :  32,
+    "frames": {
+      "fromX": 16,
+      "fromY": 32,
+      "toX": 48,
+      "toY": 32
+    }
+  }
+}

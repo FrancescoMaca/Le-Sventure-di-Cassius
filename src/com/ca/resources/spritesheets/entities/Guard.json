@@ -1,0 +1,106 @@
+{
+  "walk": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 512,
+      "toX": 576,
+      "toY": 512
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 640,
+      "toX": 576,
+      "toY": 640
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 576,
+      "toY": 576
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 704,
+      "toX": 576,
+      "toY": 704
+    }
+  },
+  "die": {
+    "width": 64,
+    "height": 64,
+    "frames": {
+      "fromX": 0,
+      "fromY": 1280,
+      "toX": 320,
+      "toY": 1280
+    }
+  },
+  "idle": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 512,
+      "toX": 64,
+      "toY": 512
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 640,
+      "toX": 64,
+      "toY": 640
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 64,
+      "toY": 576
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 704,
+      "toX": 64,
+      "toY": 704
+    }
+  },
+  "attack": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 768,
+      "toX": 320,
+      "toY": 768
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 896,
+      "toX": 320,
+      "toY": 896
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 832,
+      "toX": 320,
+      "toY": 832
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 960,
+      "toX": 320,
+      "toY": 960
+    }
+  },
+  "msgBox": {
+    "width": 100,
+    "height": 20,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 100,
+      "toY": 20
+    }
+  }
+}

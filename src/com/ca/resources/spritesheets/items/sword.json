@@ -1,0 +1,145 @@
+{
+  "_comment": "Basic sword test file",
+  "walk": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 576,
+      "toY": 64
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 192,
+      "toX": 576,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 576,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 256,
+      "toX": 576,
+      "toY": 256
+    }
+  },
+  "die": {
+    "width": 64,
+    "height": 64,
+    "frames": {
+      "fromX": 0,
+      "fromY": 320,
+      "toX": 640,
+      "toY": 384
+    }
+  },
+  "idle": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 64,
+      "toY": 64
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 192,
+      "toX": 64,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 64,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 256,
+      "toX": 64,
+      "toY": 256
+    }
+  },
+  "attack": {
+    "width": 192,
+    "height": 192,
+    "up": {
+      "fromX": 0,
+      "fromY": 384,
+      "toX": 1152,
+      "toY": 576
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 1152,
+      "toY": 768
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 768,
+      "toX": 1152,
+      "toY": 960
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 960,
+      "toX": 1152,
+      "toY": 1152
+    }
+  },
+  "run": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 576,
+      "toY": 64
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 192,
+      "toX": 576,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 576,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 256,
+      "toX": 576,
+      "toY": 256
+    }
+  },
+  "icon": {
+    "width" : 32,
+    "height" :  48,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 576,
+      "toY": 48
+    }
+  },
+  "msgBox": {
+    "width": 100,
+    "height": 20,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 100,
+      "toY": 20
+    }
+  }
+}

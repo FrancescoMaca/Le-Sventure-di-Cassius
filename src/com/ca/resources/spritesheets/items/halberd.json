@@ -1,0 +1,146 @@
+{
+  "_comment": "Halberd test file",
+  "type": "weapon",
+  "walk": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 576,
+      "toY": 128
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 576,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 576,
+      "fromY": 64,
+      "toX": 1152,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 576,
+      "fromY": 128,
+      "toX": 1152,
+      "toY": 192
+    }
+  },
+  "die": {
+    "width": 64,
+    "height": 64,
+    "frames": {
+      "fromX": 1152,
+      "fromY": 64,
+      "toX": 1536,
+      "toY": 128
+    }
+  },
+  "idle": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 64,
+      "toY": 128
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 64,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 576,
+      "fromY": 64,
+      "toX": 640,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 576,
+      "fromY": 128,
+      "toX": 640,
+      "toY": 192
+    }
+  },
+  "attack": {
+    "width": 192,
+    "height": 192,
+    "up": {
+      "fromX": 0,
+      "fromY": 192,
+      "toX": 1536,
+      "toY": 384
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 384,
+      "toX": 1536,
+      "toY": 576
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 576,
+      "toX": 1536,
+      "toY": 768
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 768,
+      "toX": 1536,
+      "toY": 960
+    }
+  },
+  "run": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "fromX": 0,
+      "fromY": 64,
+      "toX": 576,
+      "toY": 128
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 128,
+      "toX": 576,
+      "toY": 192
+    },
+    "left": {
+      "fromX": 576,
+      "fromY": 64,
+      "toX": 1152,
+      "toY": 128
+    },
+    "right": {
+      "fromX": 576,
+      "fromY": 128,
+      "toX": 1152,
+      "toY": 192
+    }
+  },
+  "icon": {
+    "width" : 32,
+    "height" :  64,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1536,
+      "toY": 64
+    }
+  },
+  "msgBox": {
+    "width": 100,
+    "height": 20,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 100,
+      "toY": 20
+    }
+  }
+}

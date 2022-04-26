@@ -1,0 +1,342 @@
+[
+  {
+    "id": "tree_big_clean_1",
+    "width": 101,
+    "height": 97,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [35, 45, 70, 2],
+    "textures": [
+      {
+        "x" : 0,
+        "y" : 735
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+  "id": "tree_big_clean_2",
+  "width": 113,
+  "height": 97,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [45, 40, 70, 2],
+  "textures": [
+    {
+      "x" : 100,
+      "y" : 735
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+},
+  {
+    "id": "tree_big_flowered_1",
+    "width": 101,
+    "height": 97,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [35, 45, 70, 2],
+    "textures": [
+      {
+        "x" : 224,
+        "y" : 735
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_big_flowered_2",
+    "width": 101,
+    "height": 97,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [35, 45, 70, 2],
+    "textures": [
+      {
+        "x" : 337,
+        "y" : 735
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_big_flowered_3",
+    "width": 101,
+    "height": 97,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [35, 45, 70, 2],
+    "textures": [
+      {
+        "x" : 449,
+        "y" : 735
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_small_clean_1",
+    "width": 62,
+    "height": 81,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [19, 21, 55, 4],
+    "textures": [
+      {
+        "x" : 0,
+        "y" : 621
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_small_clean_2",
+    "width": 62,
+    "height": 81,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [19, 21, 55, 4],
+    "textures": [
+      {
+        "x" : 64,
+        "y" : 621
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_small_flowered_1",
+    "width": 62,
+    "height": 81,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [19, 21, 55, 4],
+    "textures": [
+      {
+        "x" : 128,
+        "y" : 621
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "tree_small_flowered_2",
+    "width": 62,
+    "height": 81,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [19, 21, 55, 4],
+    "textures": [
+      {
+        "x" : 192,
+        "y" : 621
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+  "id": "tree_small_flowered_3",
+  "width": 62,
+  "height": 81,
+  "count": 1,
+  "priority": 7,
+    "hitbox": [19, 21, 55, 4],
+  "textures": [
+    {
+      "x" : 256,
+      "y" : 621
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+  },
+  {
+  "id": "bamboo_1",
+  "width": 69,
+  "height": 141,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [25, 25, 115, 5],
+  "textures": [
+    {
+      "x" : 0,
+      "y" : 467
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+  },
+  {
+    "id": "bamboo_2",
+    "width": 69,
+    "height": 92,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [27, 27, 71, 5],
+    "textures": [
+      {
+        "x" : 80,
+        "y" : 509
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "bamboo_3",
+    "width": 71,
+    "height": 92,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [27, 27, 71, 5],
+    "textures": [
+      {
+        "x" : 160,
+        "y" : 509
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "bamboo_4",
+    "width": 69,
+    "height": 70,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [27, 27, 50, 5],
+    "textures": [
+      {
+        "x" : 240,
+        "y" : 537
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+    "id": "bigRock",
+    "width": 110,
+    "height": 115,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [9, 9, 55, 4],
+    "textures": [
+      {
+        "x" : 0,
+        "y" : 160
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+  "id": "Rock1",
+  "width": 68,
+  "height": 60,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [5, 5, 35, 0],
+  "textures": [
+    {
+      "x" : 128,
+      "y" : 195
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+  },
+  {
+    "id": "Rock2",
+    "width": 58,
+    "height": 74,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [3, 3, 35, 0],
+    "textures": [
+      {
+        "x" : 224,
+        "y" : 181
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+  "id": "Rock3",
+  "width": 81,
+  "height": 68,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [5, 5, 40, 0],
+  "textures": [
+    {
+      "x" : 288,
+      "y" : 188
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+  },
+  {
+    "id": "fern",
+    "width": 88,
+    "height": 72,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [22, 27, 56, 0],
+    "textures": [
+      {
+        "x" : 0,
+        "y" : 88
+      }
+    ],
+    "effects": [
+      "Solid"
+    ]
+  },
+  {
+  "id": "stone",
+  "width": 64,
+  "height": 64,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [15, 20, 55, 0],
+  "textures": [
+    {
+      "x" : 0,
+      "y" : 0
+    }
+  ],
+  "effects": [
+    "Solid"
+  ]
+}
+]

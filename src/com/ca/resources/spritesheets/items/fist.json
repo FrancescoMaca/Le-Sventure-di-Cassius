@@ -1,0 +1,146 @@
+{
+  "_comment": "Fist weapon file (empty - invisible)",
+  "type": "weapon",
+  "walk": {
+    "width": 1,
+    "height": 1,
+    "up": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "die": {
+    "width": 1,
+    "height": 1,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "idle": {
+    "width": 1,
+    "height": 1,
+    "up": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "attack": {
+    "width": 1,
+    "height": 1,
+    "up": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "run": {
+    "width": 1,
+    "height": 1,
+    "up": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "down": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "left": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    },
+    "right": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "icon": {
+    "width" : 1,
+    "height" :  1,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 1,
+      "toY": 1
+    }
+  },
+  "msgBox": {
+    "width": 100,
+    "height": 20,
+    "frames": {
+      "fromX": 0,
+      "fromY": 0,
+      "toX": 100,
+      "toY": 20
+    }
+  }
+}

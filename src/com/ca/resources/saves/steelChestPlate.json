@@ -1,0 +1,46 @@
+{
+  "_comment": "chest plate data file",
+  "durability": 150,
+  "priority": 7,
+  "stats": {
+    "resistance": 4.0,
+    "material" : 4
+  },
+  "type" : "armor",
+  "hitbox": {
+    "width" : 64,
+    "height" :  64,
+    "offsetLeft": 24,
+    "offsetRight": 24,
+    "offsetTop": 14,
+    "offsetBottom": 13
+  },
+  "actionHitBox": {
+    "width": 64,
+    "height": 64,
+    "up": {
+      "offsetLeft": 0,
+      "offsetRight": 0,
+      "offsetTop": 0,
+      "offsetBottom": 50
+    },
+    "down": {
+      "offsetLeft": 0,
+      "offsetRight": 0,
+      "offsetTop": 70,
+      "offsetBottom": 0
+    },
+    "left": {
+      "offsetLeft": 0,
+      "offsetRight": 50,
+      "offsetTop": 0,
+      "offsetBottom": 0
+    },
+    "right": {
+      "offsetLeft": 50,
+      "offsetRight": 0,
+      "offsetTop": 0,
+      "offsetBottom": 0
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "Sword data file",
+  "durability": 10,
+  "stats": {
+    "damage": 4.0,
+    "range": 1.0,
+    "material" : 4,
+    "knockback" : 10.0
+  },
+  "hitbox": {
+    "width" : 64,
+    "height" :  64,
+    "offsetLeft": 25,
+    "offsetRight": 25,
+    "offsetTop": 13,
+    "offsetBottom": 13
+  },
+  "type" : "weapon",
+  "actionHitBox": {
+    "width" : 64,
+    "height" :  64,
+    "up": {
+      "offsetLeft": 0,
+      "offsetRight": 0,
+      "offsetTop": 0,
+      "offsetBottom": 50
+    },
+    "down": {
+      "offsetLeft": 0,
+      "offsetRight": 0,
+      "offsetTop": 70,
+      "offsetBottom": 0
+    },
+    "left": {
+      "offsetLeft": 0,
+      "offsetRight": 50,
+      "offsetTop": 0,
+      "offsetBottom": 0
+    },
+    "right": {
+      "offsetLeft": 50,
+      "offsetRight": 0,
+      "offsetTop": 0,
+      "offsetBottom": 0
+    }
+  }
+}

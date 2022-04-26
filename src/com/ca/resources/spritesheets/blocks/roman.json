@@ -1,0 +1,182 @@
+[
+  {
+    "id": "statue",
+    "width": 32,
+    "height": 70,
+    "count": 1,
+    "priority": 7,
+    "hitbox": [10, 6, 40, 10],
+    "textures": [
+      {
+        "x" : 96,
+        "y" : 32
+      }
+    ]
+  },
+  {
+  "id": "column",
+  "width": 32,
+  "height": 96,
+  "count": 1,
+  "priority": 7,
+  "hitbox": [0, 0, 64, 0],
+  "textures": [
+      {
+      "x" : 0,
+      "y" : 0
+      }
+    ]
+  },
+  {
+    "id": "stairs_up_down",
+    "width": 96,
+    "height": 32,
+    "count": 1,
+    "priority": 3,
+    "textures": [
+      {
+        "x" : 32,
+        "y" : 0
+      }
+    ]
+  },
+  {
+    "id": "stairs_left_right",
+    "width": 32,
+    "height": 96,
+    "count": 1,
+    "priority": 5,
+    "textures": [
+      {
+        "x" : 32,
+        "y" : 32
+      }
+    ]
+  },
+  {
+    "id": "block_dec_1",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 128,
+        "y" : 0
+      }
+    ]
+  },
+  {
+    "id": "block_dec_2",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 128,
+        "y" : 32
+      }
+    ]
+  },
+  {
+    "id": "block_dec_3",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 160,
+        "y" : 0
+      }
+    ]
+  },
+  {
+    "id": "block_dec_4",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 160,
+        "y" : 32
+      }
+    ]
+  },
+  {
+    "id": "ground_1",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 128,
+        "y" : 64
+      }
+    ],
+    "connectsWith": [
+      "*"
+    ]
+  },
+  {
+    "id": "ground_2",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 0,
+    "textures": [
+      {
+        "x" : 160,
+        "y" : 128
+      }
+    ],
+    "connectsWith": [
+      "*"
+    ]
+  },
+  {
+    "id": "wall",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 1,
+    "hitbox": [0, 0, 0, 0],
+    "textures": [
+      {
+        "x" : 160,
+        "y" : 64
+      }
+    ]
+  },
+  {
+    "id": "ground_wall",
+    "width": 32,
+    "height": 32,
+    "count": 1,
+    "priority": 1,
+    "hitbox": [0, 0, 0, 0],
+    "textures": [
+      {
+        "x" : 128,
+        "y" : 96
+      }
+    ]
+  },
+  {
+    "id": "wall_window",
+    "width": 32,
+    "height": 80,
+    "count": 1,
+    "priority": 1,
+    "hitbox": [0, 0, 0, 0],
+    "textures": [
+      {
+        "x" : 64,
+        "y" : 32
+      }
+    ]
+  }
+]
